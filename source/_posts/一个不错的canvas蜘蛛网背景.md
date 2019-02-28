@@ -10,7 +10,7 @@ tags: canvas
 2. 随机点的距离小于某值,就连线
 3. 在一定范围内,随机点缓慢靠近鼠标位置
 
-先给出我自己做的一个[demo](http://goldtao.github.io/project/canvas%E8%9C%98%E8%9B%9B%E7%BD%91%E8%83%8C%E6%99%AF/%E8%9C%98%E8%9B%9B%E7%BD%91.html),已经很接近网上看到的效果.更多详细请查看[git源码](https://github.com/GoldTao/canvas-demo/tree/master/canvas%E8%9C%98%E8%9B%9B%E7%BD%91%E8%83%8C%E6%99%AF)
+先给出我自己做的一个[demo](https://alvintaoj.github.io/public/canvas-spider),已经很接近网上看到的效果.更多详细请查看[git源码](https://alvintaoj.github.io/public/canvas-spider)
 
 ```html
 <!DOCTYPE html>

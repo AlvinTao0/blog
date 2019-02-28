@@ -3,9 +3,9 @@ title: 用canvas实现极致放大缩小效果
 date: 2016-04-22 10:08:15
 tags: canvas
 ---
-今天偶然在网上看到一个黑线从很小放大到很大的效果,于是动手实现了，效果查看[demo](http://goldtao.github.io/project/black-line.html)
+今天偶然在网上看到一个黑线从很小放大到很大的效果,于是动手实现了，效果查看[demo](https://alvintaoj.github.io/public/black-line.html)
 
-[github](https://github.com/GoldTao/project/blob/gh-pages/black-line.html)
+[github](https://github.com/AlvinTaoJ/public/blob/gh-pages/black-line.html)
 
 效果图：
 ![image](http://o71pfzm86.bkt.clouddn.com/QQ20160521-0.png)

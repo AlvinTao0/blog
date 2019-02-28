@@ -21,7 +21,7 @@ tags: webpack es6
 浏览器打开dist/index.html
 
 ### github
-[https://github.com/GoldTao/webpack-es6-less](https://github.com/GoldTao/webpack-es6-less)
+[https://github.com/AlvinTaoJ/webpack-es6-less](https://github.com/AlvinTaoJ/webpack-es6-less)
 
 ### 主要代码
 - webpack.config.js

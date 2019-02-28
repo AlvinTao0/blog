@@ -3,7 +3,7 @@ title: canvas实现小球的物理学碰撞
 date: 2016-05-08 10:30:57
 tags: canvas
 ---
-先看[demo](https://goldtao.github.io/project/canvas%E7%A2%B0%E6%92%9E/collisionBalls.html)
+先看[demo](https://alvintaoj.github.io/public/anvas-collisionBalls)
 
 用js代码写出小球的碰壁反弹很容易,而小球与小球互相碰撞却相对复杂了.
 
@@ -61,7 +61,7 @@ function collideBalls(ball1,ball2){
 2. 函数传递两个参数,是两个小球对象,这两个小球都有x,y,vx,vy,mass(质量)属性
 
 完整源代码:
-[git源代码](https://github.com/GoldTao/project/tree/gh-pages/canvas%E7%A2%B0%E6%92%9E)
+[git源代码](https://github.com/AlvinTaoJ/public/tree/gh-pages/canvas-collisionBalls)
 ```html
 <!DOCTYPE html>
 <html lang="en">
