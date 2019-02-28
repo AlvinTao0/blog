@@ -3,7 +3,7 @@ title: canvas实现小球的物理学碰撞
 date: 2016-05-08 10:30:57
 tags: canvas
 ---
-先看[demo](https://alvintaoj.github.io/public/anvas-collisionBalls)
+先看[demo](https://alvintaoj.github.io/public/canvas-collisionBalls)
 
 用js代码写出小球的碰壁反弹很容易,而小球与小球互相碰撞却相对复杂了.
 
