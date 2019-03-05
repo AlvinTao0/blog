@@ -75,6 +75,10 @@ deploy:
 - type: git
   repo: git@git.dev.tencent.com:alvintao/alvintao.git
   branch: coding-pages
+- type: rsync
+  host: 115.159.107.250
+  user: root
+  root: /home/taojin/project/blog
 
 # hexo-prism-plugin
 #prism_plugin:
